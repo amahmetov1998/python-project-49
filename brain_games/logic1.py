@@ -1,18 +1,20 @@
 import prompt
-import brain_games.games.logic_even
 
-def even(game):
+def structure(name_of_game):
+    print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+    print(name_of_game.condition)
     i = 0
 
     for i in range(3):
-        answer = prompt.string(f'Question: {brain_games.games.logic_even.random_number}\nYour Answer: ')
-        if answer == brain_games.games.logic_even.logic_even5():
+        question, correct_answer = name_of_game.function()
+        print(f'Question:{question}')
+        answer = prompt.string('Your Answer: ')
+        if answer == correct_answer:
             print('Correct!')
-        elif answer != brain_games.games.logic_even.logic_even5():
-            return print(f'{answer} is wrong answer ;(. Correct answer was {brain_games.games.logic_even.logic_even5()}.')
+        elif answer != correct_answer:
+            return print(f'{answer} is wrong answer ;(. Correct answer was {correct_answer}. \nLet\'s try again, {name}!')
         else:
             return print(f'{answer} is wrong answer ;(.')
     print(f'Congratulations, {name}!')
