@@ -1,4 +1,5 @@
-from random import randint, choice
+from random import randint
+
 
 condition = 'What number is missing in the progression?'
 
@@ -12,10 +13,10 @@ def function():
         a = a + step
         list.append(a)
     question = list
-    random_number = randint(0,len(list)-1)
+    random_number = randint(0, len(list) - 1)
     correct_answer = str(question[random_number])
     list[random_number] = '..'
     for i in range(len(question)):
         question[i] = str(question[i])
-    question =' '.join(question)
+    question = ' '.join(question)
     return question, correct_answer

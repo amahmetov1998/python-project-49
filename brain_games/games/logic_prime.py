@@ -11,6 +11,7 @@ def function_1(question):
             return False
     return True
 
+
 def function():
     question = randint(0, 100)
     if function_1(question):

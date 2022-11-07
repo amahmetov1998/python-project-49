@@ -4,6 +4,7 @@
 from brain_games.logic1 import structure
 from brain_games.games import logic_even
 
+
 def main():
     structure(logic_even)
 

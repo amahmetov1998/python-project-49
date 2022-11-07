@@ -1,11 +1,10 @@
 from random import randint
 from random import choice
-import operator
 condition = 'What is the result of the expression?'
 
 
 def function():
-    string = ["+","-","*"]
+    string = ["+", "-", "*"]
     number_1 = randint(1, 100)
     number_2 = randint(1, 100)
     operator = choice(string)
@@ -17,4 +16,3 @@ def function():
     elif operator == '-':
         correct_answer = str(number_1 - number_2)
     return question, correct_answer
-
