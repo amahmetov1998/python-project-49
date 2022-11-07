@@ -9,7 +9,7 @@ def structure(name_of_game):
 
     for i in range(3):
         question, correct_answer = name_of_game.function()
-        print(f'Question:{question}')
+        print(f'Question: {question}')
         answer = prompt.string('Your Answer: ')
         if answer == correct_answer:
             print('Correct!')
