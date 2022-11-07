@@ -11,8 +11,8 @@ def function():
     for _ in range(range_1):
         a = a + step
         list.append(a)
-    question = list
     random_number = randint(0,len(list)-1)
     correct_answer = str(list[random_number])
     list[random_number] = '..'
+    question = str(list)
     return question, correct_answer
