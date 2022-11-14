@@ -5,17 +5,17 @@ condition = 'What number is missing in the progression?'
 
 
 def function():
-    a = randint(1, 50)
-    step = randint(1, 10)
-    range_1 = randint(4, 9)
-    list = [a]
-    for _ in range(range_1):
-        a = a + step
-        list.append(a)
+    NUMBER_1 = randint(1, 50)
+    STEP = randint(1, 10)
+    RANGE = randint(4, 9)
+    list = [NUMBER_1]
+    for _ in range(RANGE):
+        NUMBER_1 = NUMBER_1 + STEP
+        list.append(NUMBER_1)
     question = list
-    random_number = randint(0, len(list) - 1)
-    correct_answer = str(question[random_number])
-    list[random_number] = '..'
+    NUMBER_2 = randint(0, len(list) - 1)
+    correct_answer = str(question[NUMBER_2])
+    list[NUMBER_2] = '..'
     for i in range(len(question)):
         question[i] = str(question[i])
     question = ' '.join(question)
