@@ -1,9 +1,9 @@
 from random import randint
 
-condition = 'Answer "yes" if the number is even, otherwise answer "no".'
+CONDITION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
-def function():
+def logic_game():
     question = randint(1, 100)
     if question % 2 == 0:
         correct_answer = 'yes'

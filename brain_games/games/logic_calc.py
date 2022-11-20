@@ -1,18 +1,18 @@
 from random import randint
 from random import choice
-condition = 'What is the result of the expression?'
+CONDITION = 'What is the result of the expression?'
 
 
-def function():
+def logic_game():
     string = ["+", "-", "*"]
-    NUMBER_1 = randint(1, 100)
-    NUMBER_2 = randint(1, 100)
+    number_1 = randint(1, 100)
+    number_2 = randint(1, 100)
     operator = choice(string)
-    question = f'{NUMBER_1} {operator} {NUMBER_2}'
+    question = f'{number_1} {operator} {number_2}'
     if operator == '+':
-        correct_answer = str(NUMBER_1 + NUMBER_2)
+        correct_answer = str(number_1 + number_2)
     elif operator == '*':
-        correct_answer = str(NUMBER_1 * NUMBER_2)
+        correct_answer = str(number_1 * number_2)
     elif operator == '-':
-        correct_answer = str(NUMBER_1 - NUMBER_2)
+        correct_answer = str(number_1 - number_2)
     return question, correct_answer

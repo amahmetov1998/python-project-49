@@ -1,16 +1,16 @@
 from random import randint
 
-condition = 'Find the greatest common divisor of given numbers.'
+CONDITION = 'Find the greatest common divisor of given numbers.'
 
 
-def function():
-    NUMBER_1 = randint(1, 100)
-    NUMBER_2 = randint(1, 100)
-    question = f'{NUMBER_1} {NUMBER_2}'
-    while NUMBER_1 != 0 and NUMBER_2 != 0:
-        if NUMBER_1 > NUMBER_2:
-            NUMBER_1 = NUMBER_1 % NUMBER_2
+def logic_game():
+    number_1 = randint(1, 100)
+    number_2 = randint(1, 100)
+    question = f'{number_1} {number_2}'
+    while number_1 != 0 and number_2 != 0:
+        if number_1 > number_2:
+            number_1 = number_1 % number_2
         else:
-            NUMBER_2 = NUMBER_2 % NUMBER_1
-    correct_answer = str(NUMBER_1 + NUMBER_2)
+            number_2 = number_2 % number_1
+    correct_answer = str(number_1 + number_2)
     return question, correct_answer

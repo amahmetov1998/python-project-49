@@ -1,15 +1,15 @@
 import prompt
 
 
-def structure(name_of_game):
+def engine(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print(name_of_game.condition)
-    i = 0
+    print(game.CONDITION)
+    tries_num = 3
 
-    for i in range(3):
-        question, correct_answer = name_of_game.function()
+    for i in range(tries_num):
+        question, correct_answer = game.logic_game()
         print(f'Question: {question}')
         answer = prompt.string('Your Answer: ')
         if answer == correct_answer:
