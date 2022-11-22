@@ -3,7 +3,7 @@ from random import choice
 CONDITION = 'What is the result of the expression?'
 
 
-def logic_game():
+def make_round():
     string = ["+", "-", "*"]
     number_1 = randint(1, 100)
     number_2 = randint(1, 100)

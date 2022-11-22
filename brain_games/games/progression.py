@@ -4,7 +4,7 @@ from random import randint
 CONDITION = 'What number is missing in the progression?'
 
 
-def logic_game():
+def make_round():
     number_1 = randint(1, 50)
     STEP = randint(1, 10)
     RANGE = randint(4, 9)

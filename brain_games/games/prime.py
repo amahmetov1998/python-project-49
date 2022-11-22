@@ -12,7 +12,7 @@ def is_prime(question):
     return True
 
 
-def logic_game():
+def make_round():
     question = randint(0, 100)
     if is_prime(question):
         correct_answer = 'yes'
