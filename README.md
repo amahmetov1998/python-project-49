@@ -26,14 +26,11 @@ brain-calc  #Evaluate expression
 ```
 brain-gcd   #What is the greatest common divider (GCD) for two numbers?
 ```
-#### What number is missing?
 ```
-brain-progression
+brain-progression #What number is missing?
 ```
-
-### Is the given number prime?
 ```
-brain-prime
+brain-prime #Is the given number prime?
 ```
 
 <h2 align="center">Демонстрация работы</h2>
