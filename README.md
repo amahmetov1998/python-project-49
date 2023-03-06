@@ -17,7 +17,7 @@ git clone https://github.com/amahmetov1998/python-project-49.git
 make package-install
 ```
 ### Games
-Answer is the given number even?
+# Answer is the given number even?
 ```
 brain-even
 ```
