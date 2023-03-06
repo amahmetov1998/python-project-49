@@ -17,18 +17,27 @@ git clone https://github.com/amahmetov1998/python-project-49.git
 make package-install
 ```
 ### Games
-#### Answer is the given number even?
+#### Is the given number even?
 ```
 brain-even
 ```
+#### Evaluate expression
+```
+brain-calc
+```
+#### What is the greatest common divider (GCD) for two numbers?
+```
+brain-gcd
+```
+#### What number is missing?
+```
+brain-progression
+```
 
-`brain-calc` – Игра "Калькулятор"
-
-`brain-gcd` – Игра "НОД"
-
-`brain-progression` – Игра "Арифметическая прогрессия"
-
-`brain-prime` – Игра "Простое ли число?"
+### Is the given number prime?
+```
+brain-prime
+```
 
 <h2 align="center">Демонстрация работы</h2>
 
