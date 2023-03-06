@@ -17,11 +17,11 @@
 ### 3. Вызвать игру
 
 `brain-even` – Игра "Проверка на четность"
-#### `brain-calc` – Игра "Калькулятор"
-#### `brain-gcd` – Игра "НОД"
-#### `brain-progression` – Игра "Арифметическая прогрессия"
-#### `brain-prime` – Игра "Простое ли число?"
-
+`brain-calc` – Игра "Калькулятор"
+`brain-gcd` – Игра "НОД"
+`brain-progression` – Игра "Арифметическая прогрессия"
+`brain-prime` – Игра "Простое ли число?"
+### Демо игр
 #### Игра "Проверка на четность"
 <a href="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej" target="_blank"><img src="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej.svg" /></a>
 #### Игра "Калькулятор"
