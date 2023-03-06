@@ -16,6 +16,7 @@
 ### 1. Клонировать репозиторий
 
 `git clone https://github.com/amahmetov1998/python-project-49.git`
+
 `make package-install`
 
 ### 3. Начать игру
