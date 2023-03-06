@@ -17,11 +17,6 @@ git clone https://github.com/amahmetov1998/python-project-49.git
 make package-install
 ```
 
-
-### 3. Начать игру
-
-Вызвать игру можно следующими командами:
-
 `brain-even` – Игра "Проверка на четность"
 
 `brain-calc` – Игра "Калькулятор"
