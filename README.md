@@ -19,6 +19,8 @@ make package-install
 ### Games
 ```
 brain-even  #Is the given number even?
+```
+```
 brain-calc  #Evaluate expression
 ```
 ```
