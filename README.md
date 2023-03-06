@@ -17,20 +17,25 @@ git clone https://github.com/amahmetov1998/python-project-49.git
 make package-install
 ```
 ### Games
+Is the given number even?
 ```
-brain-even  #Is the given number even?
+brain-even
 ```
+Evaluate expression
 ```
-brain-calc  #Evaluate expression
+brain-calc
 ```
+What is the greatest common divider (GCD) for two numbers?
 ```
-brain-gcd   #What is the greatest common divider (GCD) for two numbers?
+brain-gcd
 ```
+What number is missing?
 ```
-brain-progression #What number is missing?
+brain-progression
 ```
+Is the given number prime?
 ```
-brain-prime #Is the given number prime?
+brain-prime
 ```
 
 <h2 align="center">Demo</h2>
