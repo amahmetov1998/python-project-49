@@ -19,7 +19,7 @@ make package-install
 ### Games
 #### Is the given number even?
 ```
-brain-even
+brain-even  #Is the given number even?
 ```
 #### Evaluate expression
 ```
