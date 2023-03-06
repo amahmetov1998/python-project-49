@@ -10,7 +10,7 @@
 
 git clone https://github.com/amahmetov1998/python-project-49.git
 
-### Выполнить установку пакета командой
+### Выполнить установку пакета
 
 make package-install
 
