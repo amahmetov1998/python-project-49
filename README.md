@@ -19,6 +19,8 @@
 
 `make package-install`
 
+«`{python} {make package-install}«`
+
 ### 3. Начать игру
 
 Вызвать игру можно следующими командами:
