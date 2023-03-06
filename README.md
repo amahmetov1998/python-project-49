@@ -6,9 +6,14 @@
 ответить на 3 примера. В случае правильных ответов игра поздравляет пользователя с победой, в ином случае - попробовать
 еще раз.
 Для установки и запуска игр необходимо выполнить следующие шаги:
-1. Клонировать репозиторий командой git clone git@github.com:amahmetov1998/hexlet-git.git
+1. Клонировать репозиторий командой git clone git@github.com:amahmetov1998/python-project-49.git
 2. Выполнить установку пакета командой make package-install
-3. Вызвать игру командами: brain-even, brain-progression, brain-calc, brain-gcd, brain-prime
+3. Вызвать игру командами: 
+brain-even – Игра "Проверка на четность"
+brain-progression – Игра "Арифметическая прогрессия"
+brain-calc – Игра "Калькулятор"
+brain-gcd – Игра "НОД"
+brain-prime – Игра "Простое ли число?"
 
 <a href="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej" target="_blank"><img src="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej.svg" /></a>
 <a href="https://asciinema.org/a/HgYpTLj6mgoo45yL7FMumQXwB" target="_blank"><img src="https://asciinema.org/a/HgYpTLj6mgoo45yL7FMumQXwB.svg" /></a>
