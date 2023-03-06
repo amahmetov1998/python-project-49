@@ -33,25 +33,25 @@ brain-progression #What number is missing?
 brain-prime #Is the given number prime?
 ```
 
-<h2 align="center">Демонстрация работы</h2>
+<h2 align="center">Demo</h2>
 
-#### Игра "Проверка на четность"
+#### Even game
 
 <a href="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej" target="_blank"><img src="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej.svg" /></a>
 
-#### Игра "Калькулятор"
+#### Calc game
 
 <a href="https://asciinema.org/a/HgYpTLj6mgoo45yL7FMumQXwB" target="_blank"><img src="https://asciinema.org/a/HgYpTLj6mgoo45yL7FMumQXwB.svg" /></a>
 
-#### Игра "НОД"
+#### NCD game
 
 <a href="https://asciinema.org/a/LN3fGxIGtf9SEVfQGffluySYQ" target="_blank"><img src="https://asciinema.org/a/LN3fGxIGtf9SEVfQGffluySYQ.svg" /></a>
 
-#### Игра "Арифметическая прогрессия"
+#### Progression game
 
 <a href="https://asciinema.org/a/qZmbNgpoFovXXl7sxPzugOMiu" target="_blank"><img src="https://asciinema.org/a/qZmbNgpoFovXXl7sxPzugOMiu.svg" /></a>
 
-#### Игра "Простое ли число?"
+#### Prime game
 
 <a href="https://asciinema.org/a/Jlqe0I1bjGf77N0FDvw37aYGL" target="_blank"><img src="https://asciinema.org/a/Jlqe0I1bjGf77N0FDvw37aYGL.svg" /></a>
 
