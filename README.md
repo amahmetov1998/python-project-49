@@ -6,8 +6,8 @@
 
 ### Description
 
-The project consists of 5 mathematical games that offer the user to solve them. In each game you must correctly answer 3 examples. 
-If the answers are correct, the game congratulates the user on the victory, otherwise, try again.
+The project is a collection of 5 simple games that offer the user to solve them. 
+In each game you must correctly answer 3 examples. 
 
 ### Installation
 
