@@ -9,6 +9,7 @@
 1. Клонировать репозиторий командой git clone git@github.com:amahmetov1998/python-project-49.git
 2. Выполнить установку пакета командой make package-install
 3. Вызвать игру командами:
+
 brain-even – Игра "Проверка на четность"
 <a href="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej" target="_blank"><img src="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej.svg" /></a>
 brain-calc – Игра "Калькулятор"
