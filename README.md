@@ -10,7 +10,7 @@
 2. Выполнить установку пакета командой make package-install
 3. Вызвать игру командами:
 
-####     dir /fontsbrain-even    dir /fonts – Игра "Проверка на четность"
+#### brain-even – Игра "Проверка на четность"
 <a href="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej" target="_blank"><img src="https://asciinema.org/a/8lBjcA7LzXnMcflaevINSfTej.svg" /></a>
 #### brain-calc – Игра "Калькулятор"
 <a href="https://asciinema.org/a/HgYpTLj6mgoo45yL7FMumQXwB" target="_blank"><img src="https://asciinema.org/a/HgYpTLj6mgoo45yL7FMumQXwB.svg" /></a>
