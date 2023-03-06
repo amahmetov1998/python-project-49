@@ -23,17 +23,17 @@ brain-even
 ```
 2. Evaluate expression
 ```
-3. brain-calc
+brain-calc
 ```
-4. What is the greatest common divider (GCD) for two numbers?
+3. What is the greatest common divider (GCD) for two numbers?
 ```
 brain-gcd
 ```
-5. What number is missing?
+4. What number is missing?
 ```
 brain-progression
 ```
-Is the given number prime?
+5. Is the given number prime?
 ```
 brain-prime
 ```
