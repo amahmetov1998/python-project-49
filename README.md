@@ -17,17 +17,14 @@ git clone https://github.com/amahmetov1998/python-project-49.git
 make package-install
 ```
 ### Games
-#### Is the given number even?
 ```
 brain-even  #Is the given number even?
 ```
-#### Evaluate expression
 ```
-brain-calc
+brain-calc  #Evaluate expression
 ```
-#### What is the greatest common divider (GCD) for two numbers?
 ```
-brain-gcd
+brain-gcd   #What is the greatest common divider (GCD) for two numbers?
 ```
 #### What number is missing?
 ```
