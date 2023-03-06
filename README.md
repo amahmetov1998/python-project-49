@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/amahmetov1998/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/amahmetov1998/python-project-49/actions)
 <a href="https://codeclimate.com/github/amahmetov1998/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/dcc1a26a056d716f76e1/maintainability" /></a>
 
-<h1 align="center">Brain Games (Игры разума)</h1>
+<h1 align="center">Hexlet Project #1 – Brain Games (Игры разума)</h1>
 
 ## Описание проекта
 Проект представляет собой 5 математических игр, предлагающих пользователю их решить. В каждой игре необходимо верно
