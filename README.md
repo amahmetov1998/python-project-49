@@ -17,7 +17,9 @@ git clone https://github.com/amahmetov1998/python-project-49.git
 make package-install
 ```
 Answer is the given number even?
-```brain-even```
+```
+brain-even
+```
 
 `brain-calc` – Игра "Калькулятор"
 
