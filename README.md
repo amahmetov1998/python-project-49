@@ -6,9 +6,8 @@
 
 ### Description
 
-Проект представляет собой 5 математических игр, предлагающих пользователю их решить. В каждой игре необходимо верно
-ответить на 3 примера. В случае правильных ответов игра поздравляет пользователя с победой, в ином случае - попробовать
-еще раз.
+The project consists of 5 mathematical games that offer the user to solve them. In each game you must correctly answer 3 examples. 
+If the answers are correct, the game congratulates the user on the victory, otherwise, try again.
 
 ### Installation
 
