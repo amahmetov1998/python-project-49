@@ -8,11 +8,11 @@
 ## Для установки и запуска игр необходимо выполнить следующие шаги:
 ### 1. Клонировать репозиторий
 
-git clone https://github.com/amahmetov1998/python-project-49.git
+`git clone https://github.com/amahmetov1998/python-project-49.git`
 
 ### 2. Выполнить установку пакета
 
-make package-install
+`make package-install`
 
 ### 3. Вызвать игру
 
