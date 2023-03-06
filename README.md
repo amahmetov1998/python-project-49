@@ -17,23 +17,23 @@ git clone https://github.com/amahmetov1998/python-project-49.git
 make package-install
 ```
 ### Games
-1. Is the given number even?
+#### 1. Is the given number even?
 ```
 brain-even
 ```
-2. Evaluate expression
+#### 2. Evaluate expression
 ```
 brain-calc
 ```
-3. What is the greatest common divider (GCD) for two numbers?
+#### 3. What is the greatest common divider (GCD) for two numbers?
 ```
 brain-gcd
 ```
-4. What number is missing?
+#### 4. What number is missing?
 ```
 brain-progression
 ```
-5. Is the given number prime?
+#### 5. Is the given number prime?
 ```
 brain-prime
 ```
